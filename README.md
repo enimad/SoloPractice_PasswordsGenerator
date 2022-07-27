@@ -6,4 +6,4 @@ https://scrimba.com/learn/learnjavascript#
 
 Practice Time 2 - Second ending project
 
-Live version : 
+Live version : https://enimad.github.io/SoloPractice_PasswordsGenerator/
