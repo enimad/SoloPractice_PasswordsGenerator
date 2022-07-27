@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+    color: white;
+}
+
+.container {
+    padding: 15px 30px;
+    border: solid white 5px;
+    border-radius: 10px;
+}
+
+h1.green {
+    margin-top: -25px;
+    margin-bottom: -5px;
+    color: #4ADF86;
+}
+
+button {
+    background-color: #4ADF86;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 20px;
+}
+
+.decoration {
+    display: block;
+    margin: 25px 0;
+    border-top: solid 1px #273549;
+}
+
+.password-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.password-container .password-button {
+    background-color: #273549;
+    width: 250px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #4ADF86;
+    border-radius: 5px;
+}
